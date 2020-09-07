@@ -16,5 +16,5 @@ def find_min_in_nested_arrays(src)
     daily_minimums.push(days_minimum)
     daily_i +=1
   end
-daily_minimums
+  daily_minimums
 end
